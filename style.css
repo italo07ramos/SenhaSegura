@@ -1,10 +1,10 @@
 :root{
 
     --branco: white;
-    --cor-de-fundo: #8a0303;
+    --cor-de-fundo: #827d8d;
     --fundo-senha: #060104;
-    --fundo-texto: #310ee1;
-    --borda: #ffee00;
+    --fundo-texto: #12568d;
+    --borda: #00ffdd;
     --roboto: 'Roboto Mono' monospace;
 }
 
@@ -111,8 +111,7 @@ label {
     width: 20px;
     height: 20px;
     cursor: pointer;
-}
-
+}  
 .barra {
     background-color: var(--fundo-senha);
     height: 30px;
